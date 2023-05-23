@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0B5FFD1D-BA07-4281-A048-0C2CC5948C64}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PojistneUdalosti/Program.cs">
+    <Files>
+      <File FileName="PojistneUdalosti/Pojisteny.cs" Line="19" Column="1" IsPinned="True" />
+      <File FileName="PojistneUdalosti/Program.cs" Line="9" Column="6" />
+      <File FileName="PojistneUdalosti/PojisteneOsoby.cs" />
+      <File FileName="PojistneUdalosti/Vyhledavac.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PojistneUdalosti" expanded="True" selected="True">
+            <Node name="PojistneUdalosti" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PojistneUdalosti PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
